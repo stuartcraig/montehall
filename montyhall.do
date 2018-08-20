@@ -1,5 +1,5 @@
-/*------------------------------------------------------------------montehall.do
-A numerical proof of the monte hall problem
+/*------------------------------------------------------------------montyhall.do
+A numerical proof of the monty hall problem
 
 Stuart Craig
 20180819
